@@ -1,1 +1,1 @@
-script tha print file start with . in working directory
+script to make a directory
